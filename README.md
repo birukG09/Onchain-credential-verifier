@@ -2,7 +2,7 @@
 
 Blockchain-backed credential verification. Mints ERC721 NFTs for education, certifications, and employment history — verifiable on Polygon.
 
-## Stack
+## Stacks
 
 - **Backend** — Rust + Axum 0.8
 - **Database** — PostgreSQL (sqlx)
