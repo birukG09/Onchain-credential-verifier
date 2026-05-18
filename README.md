@@ -7,7 +7,7 @@ Blockchain-backed credential verification. Mints ERC721 NFTs for education, cert
 - **Backend** — Rust + Axum 0.8
 - **Database** — PostgreSQL (sqlx)
 - **Smart Contract** — Solidity 0.8.24 + OpenZeppelin ERC721
-- **Contract Tooling** — Hardhat
+- **Contract Tooling** — Hardhat.
 
 ## Project Layout
 
